@@ -1,6 +1,6 @@
 # EXCEL - 3 RANDOM EXAMPLES OF FOREIGN WORD USAGE
 
-Excel file to get 3 random usage examples for given word by means of formulae in cells and conditional formating - without any macro:
+Excel file to get 3 random usage examples for given word by means of formulae in cells and conditional formating - without any macro!
 
 ![screenshot](excel_01.png)
 
