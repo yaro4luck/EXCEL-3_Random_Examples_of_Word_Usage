@@ -8,4 +8,4 @@ Add your own word usages at the List Worksheet with automated repeatition warnin
 
 ![screenshot](excel_03.png)
 
-:copyright:yaro4luck
+:copyright: yaro4luck
